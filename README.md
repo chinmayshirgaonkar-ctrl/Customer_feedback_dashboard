@@ -10,7 +10,7 @@ The **Customer Feedback Sentiment Dashboard** is an interactive, web-based analy
 ---
 
 ## 🚀 Live Demo
-**Access the live application here:** [Customer Feedback Dashboard]([Ihttps://customerfeedbackdashboard-g7nmid4s6hvvsbffprjzns.streamlit.app/])
+**Access the live application here:** https://customerfeedbackdashboard-g7nmid4s6hvvsbffprjzns.streamlit.app/
 
 ---
 
